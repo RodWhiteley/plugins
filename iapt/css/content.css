@@ -1,0 +1,5 @@
+#ajax-test {
+	min-height: 24px; width: 75%; margin: 0 0 1em -4px; padding: 4px;
+	background-color: #ffc; color: #a00;}
+
+.loading {background: url(loading.png) no-repeat 4px 8px;}
